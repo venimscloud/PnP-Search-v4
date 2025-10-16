@@ -1,0 +1,4 @@
+Path:https://tenant.sharepoint.com/sites/??*
+IsDocument:True
+(RefinableString114{searchTerms}* OR RefinableString115:{searchTerms}* OR 
+RefinableString116:{searchTerms}* OR RefinableString117:{searchTerms}* OR {searchTerms}*)
